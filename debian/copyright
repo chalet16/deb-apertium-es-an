@@ -1,9 +1,12 @@
-This package was debianized by Witchakorn Kamolpornwijit <chalet16@gmail.com> on
-Wed, 29 Dec 2010 23:18:17 +0700.
+This work was packaged for Debian by:
 
-It was downloaded from <http://apertium.sourceforge.net/>
+    Witchakorn Kamolpornwijit <chalet16@gmail.com> on Thu, 30 Dec 2010 01:43:56 +0700
 
-Upstream Author: 
+It was downloaded from:
+
+    <http://apertium.sourceforge.net/>
+
+Upstream Authors: 
 
     Jimmy O'Regan
     Juan Pablo Martínez
@@ -11,10 +14,10 @@ Upstream Author:
 
 Copyright: 
 
-    Copyright (c) 2009-2010, Jimmy O'Regan
-    Copyright (c) 2009, Juan Pablo Martínez
-    Copyright (c) 2005, Universitat d'Alacant
-    Copyright (c) 2005, Universitat Politècnica de Catalunya 
+    Copyright (C) 2009-2010, Jimmy O'Regan
+    Copyright (C) 2009, Juan Pablo Martínez
+    Copyright (C) 2005, Universitat d'Alacant
+    Copyright (C) 2005, Universitat Politècnica de Catalunya 
                         (parts of monolingual dictionaries)
 
 Licence:
@@ -33,8 +36,10 @@ Licence:
     along with this package; if not, write to the Free Software
     Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
 
-On Debian systems, the complete text of the GNU General
-Public License can be found in `/usr/share/common-licenses/GPL'.
+The Debian packaging is:
 
-The Debian packaging is (C) 2010, Witchakorn Kamolpornwijit <chalet16@gmail.com> and
-is licensed under the GPL, see above.
+    Copyright (C) 2010 Witchakorn Kamolpornwijit <chalet16@gmail.com>
+
+and is licensed under the GPL version 2+,
+see "/usr/share/common-licenses/GPL".
+
