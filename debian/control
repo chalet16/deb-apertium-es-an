@@ -10,7 +10,7 @@ Vcs-Browser: https://github.com/chalet16/deb-apertium-es-an
 
 Package: apertium-es-an
 Architecture: any
-Depends: lttoolbox (>= 3.1.0), apertium (>= 3.1.0), apertium-pcre2
+Depends: ${misc:Depends}, lttoolbox (>= 3.1.0), apertium (>= 3.1.0), apertium-pcre2
 Description: Apertium linguistic data to translate between Spanish and Aragonese
  This is a linguistic package for the Apertium shallow-transfer machine
  translation system. The package can be used to translate from Aragonese to
