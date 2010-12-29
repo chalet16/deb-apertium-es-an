@@ -1,0 +1,22 @@
+Source: apertium-es-an
+Section: misc
+Priority: extra
+Maintainer: Witchakorn Kamolpornwijt <chalet16@gmail.com>
+Build-Depends: debhelper (>= 5), autotools-dev, lttoolbox (>= 3.1.0), apertium (>= 3.1.0), libapertium3-3.1-0-dev (>= 3.1.0), libxml2-utils (>= 2.6.26), xsltproc (>= 1.1.20), pkg-config (>= 0.21)
+Standards-Version: 3.8.0
+Homepage: http://www.apertium.org
+
+Package: apertium-es-an
+Architecture: any
+Depends: ${misc:Depends}, lttoolbox (>= 3.1.0), apertium (>= 3.1.0), apertium-pcre2
+Description: Apertium linguistic data to translate between Spanish and Aragonese
+ This is a linguistic package for the Apertium shallow-transfer
+ machine translation system. The package can be used to translate
+ from Aragonese to Spanish. Aragonese is a Romance language, spoken
+ in Argon. Spanish is a Romance language spoken widely around
+ the world. Unlike other linguistic packages this one currently
+ only has one direction, Basque to Spanish.
+ .
+ To use this package you will need to install both lttoolbox,
+ the lexical-processing tools, and apertium, the tagger and 
+ transfer engine. 

@@ -1,0 +1,41 @@
+This package was debianized by Witchakor <f.tyers@uea.ac.uk> on
+Mon, 18 Sep 2006 21:42:00 +0100.
+
+It was downloaded from <http://apertium.sourceforge.net/>
+
+Upstream Author: 
+
+    Jimmy O'Regan
+    Juan Pablo Martínez
+    Universitat d'Alacant (Transducens group)
+
+Copyright: 
+
+    Copyright (c) 2009-2010, Jimmy O'Regan
+    Copyright (c) 2009, Juan Pablo Martínez
+    Copyright (c) 2005, Universitat d'Alacant
+    Copyright (c) 2005, Universitat Politècnica de Catalunya 
+                        (parts of monolingual dictionaries)
+
+Licence:
+
+    This package is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or
+    (at your option) any later version.
+ 
+    This package is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+ 
+    You should have received a copy of the GNU General Public License
+    along with this package; if not, write to the Free Software
+    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA
+
+On Debian systems, the complete text of the GNU General
+Public License can be found in `/usr/share/common-licenses/GPL'.
+
+The Debian packaging is (C) 2010, Witchakorn Kamolpornwijit <chalet16@gmail.com>
+and modified from apertium-es-ca package which is (C) 2006--2007, Francis Tyers
+<ftyers@prompsit.com> both are licensed under the GPL, see above.
