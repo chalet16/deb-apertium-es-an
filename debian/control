@@ -1,22 +1,23 @@
 Source: apertium-es-an
 Section: misc
-Priority: extra
-Maintainer: Witchakorn Kamolpornwijt <chalet16@gmail.com>
-Build-Depends: debhelper (>= 5), autotools-dev, lttoolbox (>= 3.1.0), apertium (>= 3.1.0), libapertium3-3.1-0-dev (>= 3.1.0), libxml2-utils (>= 2.6.26), xsltproc (>= 1.1.20), pkg-config (>= 0.21)
-Standards-Version: 3.8.0
+Priority: optional
+Maintainer: Witchakorn Kamolpornwijit <chalet16@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), autotools-dev, lttoolbox (>= 3.1.0), apertium (>= 3.1.0), libapertium3-3.1-0-dev (>= 3.1.0), libxml2-utils (>= 2.6.26), xsltproc (>= 1.1.20), pkg-config (>= 0.21)
+Standards-Version: 3.9.1
 Homepage: http://www.apertium.org
+Vcs-Git: git://github.com/chalet16/deb-apertium-es-an.git
+Vcs-Browser: https://github.com/chalet16/deb-apertium-es-an
 
 Package: apertium-es-an
 Architecture: any
-Depends: ${misc:Depends}, lttoolbox (>= 3.1.0), apertium (>= 3.1.0), apertium-pcre2
+Depends: lttoolbox (>= 3.1.0), apertium (>= 3.1.0), apertium-pcre2
 Description: Apertium linguistic data to translate between Spanish and Aragonese
- This is a linguistic package for the Apertium shallow-transfer
- machine translation system. The package can be used to translate
- from Aragonese to Spanish. Aragonese is a Romance language, spoken
- in Argon. Spanish is a Romance language spoken widely around
- the world. Unlike other linguistic packages this one currently
- only has one direction, Basque to Spanish.
+ This is a linguistic package for the Apertium shallow-transfer machine
+ translation system. The package can be used to translate from Aragonese to
+ Spanish. Aragonese is a Romance language, spoken in a small part of Aragon.
+ Spanish is a Romance language spoken widely around the world. Unlike other
+ linguistic packages this one currently only has one direction, Aragonese to
+ Spanish.
  .
  To use this package you will need to install both lttoolbox,
- the lexical-processing tools, and apertium, the tagger and 
- transfer engine. 
+ the lexical-processing tools, and apertium, the tagger and transfer engine.
