@@ -11,3 +11,6 @@
 
 %:
 	dh $@ 
+override_dh_auto_install: 
+	mkdir -p $(CURDIR)/debian/apertium-es-an/usr/share/apertium/modes/
+	$(MAKE) prefix=$(CURDIR)/debian/apertium-es-an/usr install
