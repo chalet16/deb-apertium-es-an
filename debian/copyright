@@ -1,6 +1,6 @@
 This work was packaged for Debian by:
 
-    Witchakorn Kamolpornwijit <chalet16@gmail.com> on Thu, 30 Dec 2010 01:43:56 +0700
+    Witchakorn Kamolpornwijit <deb@chalet16.com> on Thu, 30 Dec 2010 01:43:56 +0700
 
 It was downloaded from:
 
@@ -38,7 +38,7 @@ Licence:
 
 The Debian packaging is:
 
-    Copyright (C) 2010 Witchakorn Kamolpornwijit <chalet16@gmail.com>
+    Copyright (C) 2010 Witchakorn Kamolpornwijit <deb@chalet16.com>
 
 and is licensed under the GPL version 2+,
 see "/usr/share/common-licenses/GPL".

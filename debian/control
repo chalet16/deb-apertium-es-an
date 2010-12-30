@@ -1,7 +1,7 @@
 Source: apertium-es-an
 Section: misc
 Priority: optional
-Maintainer: Witchakorn Kamolpornwijit <chalet16@gmail.com>
+Maintainer: Witchakorn Kamolpornwijit <deb@chalet16.com>
 Build-Depends: debhelper (>= 7.0.50~), autotools-dev, lttoolbox (>= 3.1.0), apertium (>= 3.1.0), libapertium3-3.1-0-dev (>= 3.1.0), libxml2-utils (>= 2.6.26), xsltproc (>= 1.1.20), pkg-config (>= 0.21)
 Standards-Version: 3.9.1
 Homepage: http://www.apertium.org
